@@ -7,6 +7,11 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * Perceptron - Machine Learning
+ * @author James Sutton
+ *
+ */
 public class PerceptronLearning {
 	
 	public static List<Instance> instances = new ArrayList<Instance>();
